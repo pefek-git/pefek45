@@ -14,7 +14,7 @@ function zmien(e, nr) {
     }
     else if (nr === 3) {
         header.innerHTML = "<i class='icon-newspaper' ></i> Nowiny";
-        paragraph.innerHTML = "Póki co nic nowego :<)";
+        paragraph.innerHTML = "5.05.2026 - Dodanie menu głownego i menu pauzy do Epsilo Framework";
     }
     else if (nr === 4) {
         header.innerHTML = "<i class='icon-lightbulb' ></i> Kulisy";
